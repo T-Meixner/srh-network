@@ -2,7 +2,7 @@
 
 |Kürzel|	Bedeutung|	Kontext|
 |:---|:---|:---|
-|MAC	Media Access Control	MAC-Adresse| | |
+|MAC		|Media Access Control |MAC-Adresse |
 |I/G	Individual / Group	MAC-Adresse| | |
 |U/L	Universell / Local	MAC-Adresse| | |
 |OUI	Organizationally Unique Identifier	MAC-Adresse| | |
