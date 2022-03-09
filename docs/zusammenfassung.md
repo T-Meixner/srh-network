@@ -16,4 +16,4 @@
 - [WLAN Architekturen](https://t-meixner.github.io/srh-network/docs/zusammenfassung/wlan-architekturen)
 - [Netzwertkkomponenten](https://t-meixner.github.io/srh-network/docs/zusammenfassung/netzwertkkomponenten)
 - [Switch](https://t-meixner.github.io/srh-network/docs/zusammenfassung/switch)
-- [VLAN](https://t-meixner.github.io/srh-network/docs/zusammenfassung/vlan8)
+- [VLAN](https://t-meixner.github.io/srh-network/docs/zusammenfassung/vlan)

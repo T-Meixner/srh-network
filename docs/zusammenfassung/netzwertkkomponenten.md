@@ -1,6 +1,8 @@
 ## Netzwertkkomponenten
 
 > ```md
+> # to-dos
+>
 > - ONSI Schichten
 > - Bridge Begrenzen Kollisionsdomänen Source Adresse wird gelernt (learning)
 >   => Einlagerung in MAC Adressentabelle

@@ -1,6 +1,8 @@
 ## VLAN
 
 > ```md
+> # to-dos
+>
 > - physikalisches netz, switch erzeugen logische netzwerke, Gruppierung von standortunabhängigen Rechnern in indviduelle LANS
 > - eigene Kollisionsdomänen
 > - OSI 1 Filtern nach Switch Ports
