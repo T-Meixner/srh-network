@@ -1,5 +1,5 @@
 # srh-network
 
-## Outline 
+## Outline
 
-- [Abkürzungen](https://t-meixner.github.io/srh-network/docs/abkuerzungen)
+- [Abkürzungsverzeichnis](https://t-meixner.github.io/srh-network/docs/abkürzungsverzeichnis)
