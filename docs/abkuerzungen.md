@@ -9,7 +9,8 @@
 | OUA           | Organizationally Unique Address                          | MAC-Adresse                                                     |
 | SFD           | start of frame delimiter                                 | Ethernetframe                                                   |
 | FCS           | Frame Check Sequence                                     | Ethernetframe -> Checksumme                                     |
-| CRC           | Cyclic Redundancy Check                                  | Ethernetframe -> Checksumme -> Erstellung                       |
+| CRC           | Cyclic Redundancy Check                                  | Ethernetframe -> Checksumme -> Erstellung 
+| ARP           | Address Resolution Protocol                              | Ethernetframe -> Zieladresse -> Ziel-MAC-Findung
 | DIX           | DEC-Intel-Xerox                                          | Ethernetframe -> Ethernet II Frame                              |
 | LLC           | Logical Link Control                                     | Ethernetframe -> Logical Link Control Frame                     |
 | SNAP          | Subnetwork Access Protocol                               | Ethernetframe -> LLC / SNAP Frame                               |
