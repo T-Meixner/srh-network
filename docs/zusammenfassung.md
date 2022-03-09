@@ -1,10 +1,10 @@
 # Zusammenfassung
 
-## :bookmark_tabs: Script, Seite 4 bis 42
+## 📑 Script, Seite 4 bis 42
 
 - [...]
 
-## :bookmark_tabs: Script, Seite 44 bis 101
+## 📑 Script, Seite 44 bis 101
 
 - [Ethernetstandard](https://t-meixner.github.io/srh-network/docs/zusammenfassung/ethernetstandard)
 - [MAC Adressen](https://t-meixner.github.io/srh-network/docs/zusammenfassung/mac-adressen)
