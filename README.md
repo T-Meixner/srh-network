@@ -2,4 +2,4 @@
 
 ## Outline 
 
-- [Abkürzungen](/docs/abkuerzungen)
+- [Abkürzungen](https://t-meixner.github.io/srh-network/docs/abkuerzungen)
